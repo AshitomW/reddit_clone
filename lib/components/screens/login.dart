@@ -50,7 +50,6 @@ class LoginScreen extends StatelessWidget {
             buttonLabel: "Google",
             imageIcon: Images.logoGooglePath,
           ), // Google SignIn
-          const SizedBox(height: 20),
           const LoginButton(
             buttonLabel: "Apple",
             imageIcon: Images.logoApplePath,
